@@ -19,21 +19,20 @@
 </p>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1024&height=100&lines=Quick+Learner;Continuous+Learning;Tech+Enthusiast;Critical+Thinking;Time+Management;Adaptability;Teamwork" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1024&height=80&lines=Quick+Learner;Continuous+Learning;Tech+Enthusiast;Critical+Thinking;Time+Management;Adaptability;Teamwork" alt="Typing SVG" /></a>
 
 
-<br/>
-
-
-
-
-
+- 🔭 I’m currently working on **Blood Donation Management**
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
+- 👯 I’m looking to collaborate on **MERN stack development projects. With a solid foundation in MongoDB, Express.js, React, and Node.js, I am passionate about creating dynamic, scalable web applications. Let's work together to bring innovative digital solutions to life.**
+  
 - 💬 Ask me about **React.js, JavaScript**
 
-- 📫 How to reach me **tahidtaha997@gmail.com** 
+- 📫 How to reach me **tahidtaha997@gmail.com**
+
+- ⚡ Fun fact **Relationship with Js❤️**
 
 <br/>
 <h3 align="center" style="font-size: 24px; margin-bottom: 20px;font-weight:400;">Connect with me</h3>
@@ -125,6 +124,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
+   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
 <br/><br/>
