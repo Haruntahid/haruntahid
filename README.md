@@ -1,13 +1,13 @@
-<img align="center" width="100%" height="350" src="https://c.tenor.com/C1r3YSmu4IQAAAAC/tenor.gif">
+<img align="center" width="100%" height="400" src="https://c.tenor.com/C1r3YSmu4IQAAAAC/tenor.gif">
 
 <h1 align="center">Hey 👋, I'm Harun Tahid</h1>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=haruntahid&label=Visitors&color=0e75ee&style=flat" alt="haruntahid" />
 </p>
 <!--<br/>-->
-<h3 style="font-size: 30px; text-align: center; margin-bottom: 50px;font-weight:700;">A Passionate Junior Web Developer</h2>
+<h3 align="center" style="font-size: 30px; margin-bottom: 50px;font-weight:700;">A Passionate Junior Web Developer</h2>
 
-
+<br/>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b952yxu5dw6ox1hw29ywbsrlhqagda3eqybvi86m08rj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="120" height="120"/>
@@ -17,6 +17,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="120" height="120"/>
   <img src="https://camo.githubusercontent.com/b50947545c11761bb8d54ad8e81dd928ded3f37cc14d296d6d08eec2ec20eed3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f465f61497064703368457741414141692f6769742d6769746875622e676966" width="200" height="120"/>
 </p>
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1024&height=100&lines=Quick+Learner;Continuous+Learning;Tech+Enthusiast;Critical+Thinking;Time+Management;Adaptability;Teamwork" alt="Typing SVG" /></a>
+
 
 <br/>
 
@@ -32,7 +36,7 @@
 - 📫 How to reach me **tahidtaha997@gmail.com** 
 
 <br/>
-<h3 style="font-size: 24px; text-align: center; margin-bottom: 20px;font-weight:400;">Connect with me</h3>
+<h3 align="center" style="font-size: 24px; margin-bottom: 20px;font-weight:400;">Connect with me</h3>
 
 <p align="center">
   <a href="https://twitter.com/haruntahid" target="blank">
@@ -68,7 +72,7 @@
   </a>
 </p>
 <br/>
-<h3 style="font-size: 24px; text-align: center; margin-bottom: 20px;font-weight:400;">Languages and Tools</h3>
+<h3 align="center" style="font-size: 24px; text-align: center; margin-bottom: 20px;font-weight:400;">Languages and Tools</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -121,31 +125,31 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-  </a>
 </p>
 
 <br/><br/>
-<center>
+<div align="center">
 
 | GitHub Stats | Top Languages |
 |---|---|
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haruntahid&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=haruntahid&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=haruntahid&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haruntahid&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"> |
 
-
-</center>
+</div>
 
 <br/>
 <p align="center">
+  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haruntahid&theme=black-ice" alt="haruntahid" />
 </p>
 
 <br/>
-<div style="font-size: 20px; text-align: center; margin-bottom: 20px;font-weight:500;">Github Trophy</div>
+<h3 align="center" style="font-size: 20px; margin-bottom: 20px;font-weight:500;">Github Trophy</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=haruntahid&theme=onedark&column=8" alt="haruntahid" />
   </a>
 </p>
 
+<hr/>
+<p>⭐Let's team up on some exciting projects! I'm passionate about working with developers and tech enthusiasts to innovate and turn great ideas into reality. Contact me via email or connect on Twitter or LinkedIn to get started!❤️</p>
+<hr/>
