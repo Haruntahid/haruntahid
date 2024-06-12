@@ -1,6 +1,6 @@
 <img align="center" width="100%" height="400" src="https://c.tenor.com/C1r3YSmu4IQAAAAC/tenor.gif">
 
-<h1 align="center">Hey 👋, I'm Harun Tahid</h1>
+<h1 align="center">Hey <img width="40" height="35" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"/> I'm Harun Tahid</h1>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=haruntahid&label=Visitors&color=0e75ee&style=flat" alt="haruntahid" />
 </p>
