@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=haruntahid&label=Visitors&color=0e75ee&style=flat" alt="haruntahid" />
 </p>
 <!--<br/>-->
-<div style="font-size: 28px; text-align: center; margin-bottom: 50px;font-weight:500;">A Passionate Junior Web Developer</div>
+<h3 style="font-size: 30px; text-align: center; margin-bottom: 50px;font-weight:700;">A Passionate Junior Web Developer</h2>
 
 
 
@@ -32,7 +32,7 @@
 - 📫 How to reach me **tahidtaha997@gmail.com** 
 
 <br/>
-<div style="font-size: 24px; text-align: center; margin-bottom: 20px;font-weight:400;">Connect with me</div>
+<h3 style="font-size: 24px; text-align: center; margin-bottom: 20px;font-weight:400;">Connect with me</h3>
 
 <p align="center">
   <a href="https://twitter.com/haruntahid" target="blank">
@@ -68,7 +68,7 @@
   </a>
 </p>
 <br/>
-<div style="font-size: 24px; text-align: center; margin-bottom: 20px;font-weight:400;">Languages and Tools</div>
+<h3 style="font-size: 24px; text-align: center; margin-bottom: 20px;font-weight:400;">Languages and Tools</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
