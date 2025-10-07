@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **tahidtaha997@gmail.com**
 
-- 🌐 Check out my **[Portfolio] (https://haruntahid.vercel.app/)** 
+- 🌐 Check out my **[Portfolio](https://haruntahid.vercel.app/)** 
 
 - ⚡ Fun fact **Relationship with Js❤️**
 
