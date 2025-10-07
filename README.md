@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=haruntahid&label=Visitors&color=0e75ee&style=flat" alt="haruntahid" />
 </p>
 <!--<br/>-->
-<h3 align="center">A Passionate Junior Web Developer</h2>
+<h3 align="center">A Passionate Junior Software Engineer</h2>
 
 <br/>
 
@@ -22,15 +22,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira&size=40+Code&pause=1500&center=true&vCenter=true&random=false&width=1024&height=80&lines=Quick+Learner;Continuous+Learning;Tech+Enthusiast;Critical+Thinking;Time+Management;Adaptability;Teamwork" alt="Typing SVG" /></a>
 
 
-- 🔭 I’m currently working on **Blood Donation Management**
+- 🔭 I’m currently working on **OpenMRS**
 
-- 🌱 I’m currently learning **Next.js, TypeScript**
+- 🌱 I’m currently learning **Docker,Microservices**
 
-- 👯 I’m looking to collaborate on **MERN stack development projects.** With a solid foundation in MongoDB, Express.js, React, and Node.js, I am passionate about creating dynamic, scalable web applications. Let's work together to bring innovative digital solutions to life.
+- 👯 I’m looking to collaborate on **MERN stack development projects || Spring Boot Project** With a solid foundation in MongoDB, Express.js, React, and Node.js, I’m passionate about building robust, scalable backend systems and seamless API integrations. Let's work together to bring innovative digital solutions to life.
   
-- 💬 Ask me about **React.js, JavaScript**
+- 💬 Ask me about **React.js, JavaScript, Spring Boot**
 
 - 📫 How to reach me **tahidtaha997@gmail.com**
+
+- 🌐 Check out my **[Portfolio] (https://haruntahid.vercel.app/)** 
 
 - ⚡ Fun fact **Relationship with Js❤️**
 
@@ -85,21 +87,26 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
     <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
     <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
     <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ES Lint"/>
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
     <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/>
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vs Code"/>
+      <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 </p>
 <hr/>
